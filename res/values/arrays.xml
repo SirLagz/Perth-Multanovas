@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_SortOrder">
+        <item name="subasc">Suburb A-Z</item>
+        <item name="subdesc">Suburb Z-A</item>
+        <item name="stasc">Street A-Z</item>
+        <item name="stdesc">Street Z-A</item>
+    </string-array>
+    
+    <string-array name="pref_SortOrderValues">
+        <item name="subasc">http://perthtraffic.sirlagz.net/xml/camfeed1.php?sort=subasc</item>
+        <item name="subdesc">http://perthtraffic.sirlagz.net/xml/camfeed1.php?sort=subdesc</item>
+        <item name="stasc">http://perthtraffic.sirlagz.net/xml/camfeed1.php?sort=stasc</item>
+        <item name="stdesc">http://perthtraffic.sirlagz.net/xml/camfeed1.php?sort=stdesc</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/stasc"
+        android:orderInCategory="100"
+        android:title="@string/sort_stasc"/>
+    
+    <item
+        android:id="@+id/stdesc"
+        android:orderInCategory="200"
+        android:title="@string/sort_stdesc"/>
+    <item
+        android:id="@+id/subasc"
+        android:orderInCategory="100"
+        android:title="@string/sort_subasc"/>
+    <item
+        android:id="@+id/subdesc"
+        android:orderInCategory="100"
+        android:title="@string/sort_subdesc"/>
+</menu>

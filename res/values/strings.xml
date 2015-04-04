@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_cat_appsettings">App Settings</string>
+    <string name="app_name">Perth Multanovas</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnRefresh">Refresh Button</string>
+	<string name="action_refresh">Refresh</string>
+	<string name="action_options">Options</string>
+	
+	<string name="pref_SortOrder">Sort By...</string>
+	<string name="pref_SortOrder_Default">http://perthtraffic.sirlagz.net/xml/camfeed1.php?sort=subasc</string>
+	
+	<string name="sort_stasc">Street A-Z</string>
+	<string name="sort_stdesc">Street Z-A</string>
+	<string name="sort_subasc">Suburb A-Z</string>
+	<string name="sort_subdesc">Suburb Z-A</string>
+	
+	<string name="pref_SortOrder_Summary">Sorting order for the list of cameras</string>
+</resources>
